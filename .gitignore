@@ -1,0 +1,9 @@
+phpunit.xml
+composer.lock
+
+.idea
+.vscode
+nbproject
+.project
+
+.DS_Store
